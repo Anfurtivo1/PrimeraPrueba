@@ -8,6 +8,8 @@ namespace PrimeraPrueba
 		{
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("Hola mundo");
+			//Modificacion directa en el servidor remoto
+			Comsole.WriteLine("Adios");
 		}
 	}
 }
